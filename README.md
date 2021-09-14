@@ -3,18 +3,10 @@ Moview Search website built with React js
 
 
 
-## Table of contents
-
-  - [Screenshot](#screenshot)
-  - [Built with](#built-with)
-- [Author](#author)
-
-
-
 
 ### Screenshot
 
-![](./capture1.PNG)
+![](./Capture1.PNG)
 
 
 
